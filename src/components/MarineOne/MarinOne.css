@@ -1,0 +1,8 @@
+.marine_wrapper{
+    background-image: url("../../assets/marin1.jpeg");
+    min-height: 60vh;
+    padding-top: 20vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
