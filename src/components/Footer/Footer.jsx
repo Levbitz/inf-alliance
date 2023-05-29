@@ -8,7 +8,7 @@ function Footer() {
       <div class="row">
         <div class="col l9 s12">
           <h5 class="white-text">Who We Are</h5>
-          <p class="orange-text lighten-2-text">Kayex SA is a diversified and integrated services company focusing on energy and industrial supply with three core businesses consisting of offshore & marine procurement, consulting & engineering technical services, and the provision of global workforce solutions.</p>
+          <p class="orange-text lighten-2-text"> Infinitz Alliance is a diversified and integrated services company focusing on energy and industrial supply with three core businesses consisting of offshore & marine procurement, consulting & engineering technical services, and the provision of global workforce solutions.</p>
 
           <p className='orange-text lighten-2-text'>
           Headquartered in South Africa and, with operations spread across all continents, we provide innovative services with an emphasis on operations and specialized solutions to make your business faster, simpler and more efficient.

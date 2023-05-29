@@ -2,6 +2,7 @@ import React, { useState } from "react";
 
 import "./BottomTabs.css";
 import Automative from "../MarketingTabs/Automative/Automative";
+import Mdeical from "../MarketingTabs/Medical/Mdeical";
 
 const BottomTabs = () => {
   const [activeTab, setActiveTab] = useState("tab1");
@@ -31,7 +32,7 @@ const BottomTabs = () => {
     setActiveTab("tab6");
   };
   return (
-    <div className="levbitz_container ">
+    <div className="levbitz_container hide-on-med-and-down">
 
     <h4>Market-specific Solutions</h4>
       <div className="Tabs">
@@ -81,7 +82,7 @@ const BottomTabs = () => {
             activeTab === "tab1" ? (
               <Automative/>
             ) : activeTab === "tab2" ? (
-              <Properties />
+              <Mdeical/>
             ) : (
               <Agriculture />
             )
