@@ -55,12 +55,11 @@ function Food() {
    
     <div className="col l6 s12">
     <div>
-    <h5>Products categories:</h5>
-    <p>Surgical instruments.</p>
-    <p>Medical consumables</p>
-    <p>Rehabilitation and healthcare products</p>
-    <p>Diagnostic devices</p>
-    <p>Hospital furniture</p>
+    <h5>Global Offerings and Export Services:</h5>
+    <p>Beverages: carbonated soda, energy drinks, functional & flavored waters, juice & juice drinks, powdered beverages, coffee, tea, sports drinks.</p>
+    <p>Fruits & Vegetables: frozen & fresh</p>
+    <p>Meats & Fish: ( Frozen & Fresh)</p>
+  
 
    
     </div>
