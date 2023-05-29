@@ -3,6 +3,10 @@ import React, { useState } from "react";
 import "./BottomTabs.css";
 import Automative from "../MarketingTabs/Automative/Automative";
 import Mdeical from "../MarketingTabs/Medical/Mdeical";
+import Technology from "./Technology/Technology";
+import Food from "./Food/Food";
+import Water from "./Water/Water";
+import Solar from "./Solar/Solar";
 
 const BottomTabs = () => {
   const [activeTab, setActiveTab] = useState("tab1");
@@ -83,8 +87,12 @@ const BottomTabs = () => {
               <Automative/>
             ) : activeTab === "tab2" ? (
               <Mdeical/>
-            ) : (
-              <Agriculture />
+            ) : activeTab === "tab3" ?(
+             <Technology/>
+            ):activeTab === "tab4" ?(<Food/>):(
+              activeTab === "tab5"? <Water/> :(
+                <Solar/>
+              )
             )
           }
         </div>
