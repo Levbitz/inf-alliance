@@ -1,6 +1,7 @@
 import React from 'react'
 import One from "../../assets/1.mp4"
 import Logo from "../../assets/logo.jpeg"
+import NavbarTwo from '../NavbarTwo/NavbarTwo'
 
 function Showcase() {
   return (
@@ -9,10 +10,15 @@ function Showcase() {
     }} >
     <div style={{
         position:"absolute",
-        top:10,
-        left:10
+        top:0,
+        left:10,
+        left:0,
+        right:0,
+        zIndex:999
     }}>
-   <img width={100} src={Logo} alt="" /> 
+
+    <NavbarTwo/>
+{/*   <img width={100} src={Logo} alt="" />*/ }
     </div>
     <video
     autoPlay={true}

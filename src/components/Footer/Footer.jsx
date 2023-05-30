@@ -43,7 +43,7 @@ function Footer() {
 
     <div className="container">
     <div className="row">
-    <div className="col l6 s12">
+    <div className="col l3 s12">
     <div style={{
         borderRight:'1px #ffb74d solid',
         paddingRight:30,
@@ -56,7 +56,7 @@ function Footer() {
    
     </div>
     </div>
-    <div className="col l6 s12">
+    <div className="col l3 s12">
     <div style={{
         borderRight:'1px #ffb74d solid',
         paddingRight:30,
@@ -71,6 +71,38 @@ function Footer() {
     229 W 43rd St
     8th Fl
     New York, NY 10036, USA</p>
+    </div>
+    </div>
+    <div className="col l3 s12">
+    <div style={{
+        borderRight:'1px #ffb74d solid',
+        paddingRight:30,
+
+    }}>
+    <h5>Canada</h5>
+    
+   
+    <p>
+
+    Tel: +1 289 232 6212 
+    3381 Steeles Avenue East, Suite 310
+    Toronto, ON M2H 3S7, Canada</p>
+    </div>
+    </div>
+    <div className="col l3 s12">
+    <div style={{
+        borderRight:'1px #ffb74d solid',
+        paddingRight:30,
+
+    }}>
+    <h5>Europe Branch</h5>
+    
+ 
+    <p>
+    
+    Tel: +32 460 248 179 
+     Rue de la Loi/Wetstraat 175. B-1048 Bruxelles/Brussel.
+    Belgique/België</p>
     </div>
     </div>
     </div>
