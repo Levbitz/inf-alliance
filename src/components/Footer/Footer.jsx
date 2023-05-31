@@ -3,7 +3,7 @@ import Logo from "../../assets/logo.jpeg"
 
 function Footer() {
   return (
-    <footer class="page-footer black">
+    <footer  class="page-footer black">
     <div class="container">
       <div class="row">
         <div class="col l9 s12">
@@ -25,7 +25,7 @@ function Footer() {
         
       </div>
     </div>
-    <div className="container">
+    <div id='showmore' className="container">
     <div className="row">
 
     <h5>GENERAL INQUIRIES:

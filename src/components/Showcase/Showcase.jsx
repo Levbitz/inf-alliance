@@ -11,7 +11,7 @@ function Showcase() {
     <div style={{
         position:"absolute",
         top:0,
-        left:10,
+        width:'100%',
         left:0,
         right:0,
         zIndex:999
