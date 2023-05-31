@@ -1,8 +1,16 @@
 .marine_one_wrapper{
     background-image: url("../../assets/cap.jpg");
     min-height: 60vh;
-    padding-top: 20vh;
+    padding-top: 50vh;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+
+
+   
 }
+
+
+.marine_one_wrapper h4{
+    font-size: 40px;
+   }

@@ -55,7 +55,7 @@ export const ContactPage = () => {
         marginTop:"10vh"
     }}>
 
-    <img className='responsive-img' src={Logo} alt="" /> 
+   
     </div>
     </div>
     </div>
