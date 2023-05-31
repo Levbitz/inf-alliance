@@ -24,11 +24,12 @@ function NavbarTwo() {
       
         <li><Link to="/contact">Contact</Link></li>
         <li><a style={{
+        fontWeight:'bold',
         
          }}
         
          
-         href="#showmore"> Show more</a></li>
+         href="#showmore"> WHO ARE WE</a></li>
         <li ><BsFacebook size={25} style={{
           paddingTop:10,
           marginRight:10
@@ -62,11 +63,12 @@ function NavbarTwo() {
       <p><Link onClick={()=>setShowDrop(false)} to='/'><img width={100} src={Logo} alt="" /></Link> </p>
    <p > <a style={{
     border:'1px coral solid',
-padding:"1px 10px"
+padding:"1px 10px",
+fontWeight:"bold"
    }}
    onClick={()=>setShowDrop(false)}
-   
-   href="#showmore"> Show more</a></p>
+ 
+   href="#showmore"> WHO ARE WE</a></p>
    <p><BsFacebook size={24} onClick={()=>setShowDrop(false)}   color='#fff'/></p>
    <p><AiOutlineMail size={24} onClick={()=>setShowDrop(false)}   /></p>
    <p><AiFillInstagram size={24} onClick={()=>setShowDrop(false)}   /></p>
