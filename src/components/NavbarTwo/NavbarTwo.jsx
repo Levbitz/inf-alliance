@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import { Link } from 'react-router-dom'
-import Logo from "../../assets/logo.jpeg"
+import Logo from "../../assets/logo.png"
 import {BiMenu} from 'react-icons/bi'
 import {BsFacebook} from 'react-icons/bs'
 import {AiOutlineMail,AiFillInstagram} from 'react-icons/ai'
