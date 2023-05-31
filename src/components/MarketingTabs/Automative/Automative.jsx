@@ -25,7 +25,7 @@ function Automative() {
     <div className="col l6 s12">
     <div>
     <h5>AUTOMOTIVE AFTERMARKET SUPPLIES</h5>
-    <p>At Kayex SA, we strive to provide our customers with the best quality parts available at the lowest price possible. We outsource auto body parts directly from the manufacturer to get the lowest price, therefore passing the savings on to you. We have a huge variety of exterior body parts for many foreign and domestic vehicles.</p>
+    <p>At Infinitz Alliance, we strive to provide our customers with the best quality parts available at the lowest price possible. We outsource auto body parts directly from the manufacturer to get the lowest price, therefore passing the savings on to you. We have a huge variety of exterior body parts for many foreign and domestic vehicles.</p>
 
     <p>Since breakdowns occur unexpectedly, we can deploy spare parts, people and equipment to any part of the World.</p>
     <p>WE CAN HELP YOU

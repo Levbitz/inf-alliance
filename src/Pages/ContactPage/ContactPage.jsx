@@ -19,7 +19,12 @@ export const ContactPage = () => {
 
   return (
     <>
-    <NavbarTwo/>
+    <div style={{
+      height:140
+    }} className='black'>
+   <NavbarTwo/> 
+    </div>
+    
     <div className="container">
     
     <div className="row">

@@ -12,6 +12,8 @@ import MarinOne from './components/MarineOne/MarinOne'
 import Showcase from './components/Showcase/Showcase'
 import { BrowserRouter  , Routes ,Route} from 'react-router-dom'
 import ContactPage from './Pages/ContactPage/ContactPage'
+import Offshore from './components/Offshore/Offshore'
+import MarinLast from './components/MarinLast/MarinLast'
 
 function App() {
   return (
@@ -36,12 +38,15 @@ const HomePage = ()=>{
     <>
     <Showcase/>
     <MarinOne/>
+    <Offshore/>
     <MaintenanceImsOne/>
     <Marin/>
    <Maintenance/>
     <MaintenanceIms/>
 <Products/>
      <Global/> 
+
+     <MarinLast/>
     <div className="container">
     
   

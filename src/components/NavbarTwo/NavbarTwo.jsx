@@ -8,7 +8,7 @@ import {AiOutlineMail,AiFillInstagram} from 'react-icons/ai'
 function NavbarTwo() {
   const [showdrop , setShowDrop] = useState(false)
   return (
-    <nav className='black z-depth-0'>
+    <nav className='transparent  z-depth-0'>
     <div class="nav-wrapper container hide-on-med-and-down ">
 
    
@@ -16,7 +16,7 @@ function NavbarTwo() {
       <div style={{
         marginTop:10
       }}>
-      <img width={100} src={Logo} alt="" /> 
+      <img width={200} src={Logo} alt="" /> 
       </div>
       
       </Link>

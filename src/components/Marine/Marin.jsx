@@ -5,17 +5,17 @@ import './Marin.css'
 
 function Marin() {
   return (
-    <div className='marine_wrapper'>
+    <div id='gass'  className='marine_wrapper'>
     
-    <div className="container">
+    <div  className="container">
     <div className="row">
-    <div className="col l9 s12">
-    <h4 className='white-text'>Marine Solutions & Products</h4>
+    <div  className="col l9 s12">
+    <h4 className='white-text'>Oil & Gas Equipment Supply</h4>
 
-    <p className='white-text'>Infinitz Alliance offers marine innovative solutions to all types of vessels worldwide. We provide services, repairs and an extensive range of outsourced marine parts that are designed to work within the toughest marine conditions.
+    <p className='white-text'>Getting the equipment you need to do your job is critical. Infinitz Alliance  can help keep your oil and gas operations running smoothly, efficiently and safely with a wide range of available products and tools.
 
     </p>
-    <p className='white-text'>Check out our marine maintenance services offering below.</p>
+    <p  className='white-text'>We supply a wide selection of drills, pumps, spare parts and equipment, delivered to you promptly, so you can operate with maximum efficiency. Our ability to reverse-engineer OEM replacement parts with precision means that your equipment can continue to perform at the high level you can expect.</p>
     </div>
     </div>
     </div>
