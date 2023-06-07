@@ -33,7 +33,7 @@ function Footer() {
     </h5>
     <p>
 
-    +27218796723 (direct line)</p>
+    +1 208 953 9372 (direct line)</p>
         <div style={{
             height:2,
             width: '100%',
